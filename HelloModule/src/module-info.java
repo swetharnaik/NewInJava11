@@ -1,0 +1,3 @@
+module HelloModule {
+    requires GreetingsModule;
+}
